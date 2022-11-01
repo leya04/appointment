@@ -1,0 +1,75 @@
+* {
+	box-sizing: border-box;
+}
+
+.form-box {
+	 /*background-color: rgba(0, 0, 0, 0.5); */
+	margin: auto auto;
+	padding: 40px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px #000;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 80rem;
+	height: 30rem;
+} 
+/* .form-box input {
+	margin: 10px 0px;
+	padding: 10px;
+	border-radius: 10px;
+	width: 100%;
+	font-size: 18px;
+} */
+/* #check{
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+} */
+/* #pass #email{
+  
+	display: inline-block;
+} */
+/* .form-box input[type=checkbox] {
+	display: none;
+} */
+/* .form-check label:before {
+	content: "";
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border-radius: 5px;
+	
+	left: 0;
+	bottom: 1px;
+	background-color: #ddd;
+} */
+
+.form-box button {
+	background-color: deepskyblue;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+	padding: 10px;
+	margin: 20px 0px;
+}
+/* .form-box span {
+	font-size: 14px;
+} */
+
+/* .form-check input[type=checkbox]:checked+label:before {
+	content: "\2713";
+	font-size: 20px;
+	color: #000;
+	text-align: center;
+	line-height: 20px;
+} */
+/* .container{
+    margin-top: 10rem;
+} */
+
